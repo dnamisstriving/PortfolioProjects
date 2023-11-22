@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-
-## Credit Score Classification
-
-</div>
+## <p align="center">Credit Score Classification</p>
 
 ![Alt text](https://drive.google.com/uc?id=1Jq-YNV_BdKAaoAuSxLslTkydjjjszZ5a)
 
