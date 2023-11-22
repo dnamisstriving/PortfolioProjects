@@ -16,12 +16,18 @@ Welcome to the Financial Analysis Project! This project delves into a comprehens
 </div>
 <br>
 
-:notebook: **Library used**
+:notebook: **Library and Module used**
 ```python
 import pandas as pd 
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.impute import SimpleImputer
+import plotly.figure_factory as ff
+import plotly.express as px 
+from matplotlib import colors 
+import matplotlib.ticker as mtick 
+import plotly.graph_objects as go
 ```
 
 :dart: **Some ideas**
