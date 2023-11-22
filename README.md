@@ -14,8 +14,8 @@ Welcome to the Financial Analysis Project! This project delves into a comprehens
 :globe_with_meridians: **Technologies**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1e3JzgF5W88Hl56c9PlMsruqPRGY4UTmI" alt="Alt text" width="100" height="100">
-  <img src="https://drive.google.com/uc?export=view&id=1PHb7i9galZ75n1g8v37g_uw3s-Yk8qZe" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?id=1e3JzgF5W88Hl56c9PlMsruqPRGY4UTmI" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?id=1PHb7i9galZ75n1g8v37g_uw3s-Yk8qZe" alt="Alt text" width="100" height="100">
   <img src="https://drive.google.com/uc?id=1nV6GakOpOpakGTARtwlKOygdNmUcvs7_" alt="Alt text" width="100" height="100">
 </div>
 
