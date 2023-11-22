@@ -14,9 +14,6 @@ Welcome to the Financial Analysis Project! This project delves into a comprehens
   <img src="https://drive.google.com/uc?id=1PHb7i9galZ75n1g8v37g_uw3s-Yk8qZe" alt="Alt text" width="100" height="100">
   <img src="https://drive.google.com/uc?id=1nV6GakOpOpakGTARtwlKOygdNmUcvs7_" alt="Alt text" width="100" height="100">
 </div>
-
-
-
 <br>
 
 :notebook: **Library used**
