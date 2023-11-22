@@ -16,7 +16,7 @@ Welcome to the Financial Analysis Project! This project delves into a comprehens
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1e3JzgF5W88Hl56c9PlMsruqPRGY4UTmI" alt="Alt text" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=1PHb7i9galZ75n1g8v37g_uw3s-Yk8qZe" alt="Alt text" width="100" height="100">
-  <img src="https://drive.google.com/uc?export=view&id=1nV6GakOpOpakGTARtwlKOygdNmUcvs7_" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?id=1nV6GakOpOpakGTARtwlKOygdNmUcvs7_" alt="Alt text" width="100" height="100">
 </div>
 
 
@@ -143,27 +143,49 @@ A tentative observation suggests that higher interest rates may be associated wi
 
 :checkered_flag: **Conclusion**
 
-**1.	Income and Financial Behavior:**
-•	There is a notable correlation between higher monthly income and positive financial behavior, as indicated by better credit scores and fewer outstanding debts.
-**2.	Occupation and Financial Metrics:**
-•	Different occupations exhibit distinct financial profiles, with musicians having high income and monthly investments, while managers face higher interest rates.
-**3.	Age and Credit Behavior:**
-•	Age plays a significant role in credit behavior, with individuals aged 25 to 44 showing both the highest "good" and "poor" credit scores.
-**4.	Credit Score and Debt Management:**
-•	Higher credit scores tend to be associated with more responsible debt management, lower outstanding debts, and a lower number of credit inquiries.
-**5.	Monthly Investments and Credit Ratings:**
-•	Monthly investment patterns are diverse, with customers having "Poor" credit ratings showing lower investment amounts. However, higher monthly investments generally correlate with more positive credit ratings.
-**6.	Monthly investment Trends:**
-•	Certain months, particularly May, exhibit higher investment activities and credit ratings.
-**7.	Occupation-Specific Risks:**
-•	Some occupations, such as scientists and engineers, demonstrate specific financial risks, with scientists having higher "poor" credit scores and engineers having the highest number of both "good" and "poor" credit scores.
-**8.	Credit Score and Loan Dynamics:**
-•	Credit scores influence loan dynamics, with customers having "Poor" credit ratings often having more bank cards and potentially larger loans.
-**9.	Payment Behavior and Age:**
-•	Older customers, particularly those aged 40 to 50, tend to exhibit more favorable payment behavior, while younger individuals may face challenges in this regard.
-**10.	Credit History Impact:**
-•	Longer credit histories positively impact credit scores, reinforcing the importance of a stable financial track record.
-**11.	Interest Rates and Loan Size (Tentative):**
-•	There appears to be a tentative association between higher interest rates and larger loans. However, further analysis is needed to confirm this relationship.
+**1. Income and Financial Behavior:**
+
+There is a notable correlation between higher monthly income and positive financial behavior, as indicated by better credit scores and fewer outstanding debts.
+
+**2. Occupation and Financial Metrics:**
+
+Different occupations exhibit distinct financial profiles, with musicians having high income and monthly investments, while managers face higher interest rates.
+
+**3. Age and Credit Behavior:**
+
+Age plays a significant role in credit behavior, with individuals aged 25 to 44 showing both the highest "good" and "poor" credit scores.
+
+**4. Credit Score and Debt Management:**
+
+Higher credit scores tend to be associated with more responsible debt management, lower outstanding debts, and a lower number of credit inquiries.
+
+**5. Monthly Investments and Credit Ratings:**
+
+Monthly investment patterns are diverse, with customers having "Poor" credit ratings showing lower investment amounts. However, higher monthly investments generally correlate with more positive credit ratings.
+
+**6. Monthly investment Trends:**
+
+Certain months, particularly May, exhibit higher investment activities and credit ratings.
+
+**7. Occupation-Specific Risks:**
+
+Some occupations, such as scientists and engineers, demonstrate specific financial risks, with scientists having higher "poor" credit scores and engineers having the highest number of both "good" and "poor" credit scores.
+
+**8. Credit Score and Loan Dynamics:**
+
+Credit scores influence loan dynamics, with customers having "Poor" credit ratings often having more bank cards and potentially larger loans.
+
+**9. Payment Behavior and Age:**
+
+Older customers, particularly those aged 40 to 50, tend to exhibit more favorable payment behavior, while younger individuals may face challenges in this regard.
+
+**10. Credit History Impact:**
+
+Longer credit histories positively impact credit scores, reinforcing the importance of a stable financial track record.
+
+**11. Interest Rates and Loan Size (Tentative):**
+
+There appears to be a tentative association between higher interest rates and larger loans. However, further analysis is needed to confirm this relationship.
+
 
 ![Alt text](https://drive.google.com/uc?id=1-kUUkJP3fM0pLr25WnyxdHMl5mAaLXga)
