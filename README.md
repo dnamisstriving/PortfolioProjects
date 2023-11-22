@@ -4,7 +4,8 @@
 
 </div>
 
-![Alt text](cre1.jpg)
+![Alt text](https://drive.google.com/uc?id=1Jq-YNV_BdKAaoAuSxLslTkydjjjszZ5a)
+
 
 :round_pushpin:	**About**
 
@@ -13,10 +14,12 @@ Welcome to the Financial Analysis Project! This project delves into a comprehens
 :globe_with_meridians: **Technologies**
 
 <div align="center">
-  <img src="Python-Symbol.png" alt="Alt text" width="100" height="100">
-  <img src="download.png" alt="Alt text" width="100" height="100">
-  <img src="excel-tenten.png" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?export=view&id=1e3JzgF5W88Hl56c9PlMsruqPRGY4UTmI" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?export=view&id=1PHb7i9galZ75n1g8v37g_uw3s-Yk8qZe" alt="Alt text" width="100" height="100">
+  <img src="https://drive.google.com/uc?export=view&id=1nV6GakOpOpakGTARtwlKOygdNmUcvs7_" alt="Alt text" width="100" height="100">
 </div>
+
+
 
 <br>
 
@@ -163,4 +166,4 @@ A tentative observation suggests that higher interest rates may be associated wi
 **11.	Interest Rates and Loan Size (Tentative):**
 •	There appears to be a tentative association between higher interest rates and larger loans. However, further analysis is needed to confirm this relationship.
 
-![Alt text](<New Bitmap Image (2).bmp>)
+![Alt text](https://drive.google.com/uc?id=1-kUUkJP3fM0pLr25WnyxdHMl5mAaLXga)
